@@ -1,0 +1,38 @@
+.mainbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 15vw 0 15vw;
+    height: auto;
+}
+.stagephoto img{
+    margin-top: 5vw;
+    height: 300px;
+}
+.mainboxsocial{
+    display: flex;
+    flex-direction: row;
+}
+.downloadlink{
+    margin-top: 5vw;
+    background-color: #3c3c3c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.media{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2vw;
+    justify-content: center;
+}
+.registrationbutton{
+    font-size: 140px;
+    text-align: center;
+    margin-bottom: 10vw;
+}
+:hover{
+    color: #ff00bc;
+    transition: .4s;
+}

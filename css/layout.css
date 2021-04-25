@@ -130,6 +130,7 @@ footer{
 
 
 /* HOVERS */
+
 .news_picture_small:hover{
     transition: 1s;
     opacity: 0.8;
@@ -140,6 +141,11 @@ footer{
 }
 .competition_photo:hover{
     opacity: 0.6;
+    transition: 1s;
+}
+    .menu-text:hover{
+    color:#ff00bc;
+    border-bottom: 3px solid #ff00bc;
     transition: 1s;
 }
 .fab:hover{
